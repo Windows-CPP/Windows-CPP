@@ -1,6 +1,6 @@
-### Hi there 👋
+### Howdy, y'all! 👋
 
-Howdy y'all! My name is Robert Castro, but I also have a few other pseudonyms (Notably, Windows-CPP & StG_44).
+My name is Robert Castro, but I also have a few other pseudonyms (Notably, Windows-CPP & StG_44).
 I'm a high-schooler, and I develop Python and C++ backend code in my free time.
 
 #### What I'm Working On
