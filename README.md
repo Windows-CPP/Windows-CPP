@@ -6,9 +6,10 @@ I'm a high-schooler, and I develop Python and C++ backend code in my free time.
 #### What I'm Working On
 
 Currently, I'm working on LockBox, a set of encryption algorythims for data.
-Eventually I want to interpret my own form of packet setup and protocol for it,
-so that it can send and receive packets to other LockBox-enabled devices. Will come in
-handy for later projects, for sure.
+Eventually I want to interpret my own form of packet I/O system for it using a custom protocol,
+so tht I have a personal encryption solution for later use in projects. Of course, I also want
+to find a way to make LockBox publically available for anyone that wants to either contribute
+or use LockBox.
 
 #### What I Will Work On
 
