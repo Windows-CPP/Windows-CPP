@@ -27,6 +27,8 @@ features such as SP02 and light levels, and more.
 
 #### Contact
 
+**Professional Email:** [bobbycastdev@gmail.com](mailto:bobbycastdev@gmail.com)
+
 **Personal Email:** [Bobbycast66@gmail.com](mailto:bobbycast66@gmail.com)
 
 **Phone #:** 1+ (909).548.5431
