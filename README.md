@@ -18,12 +18,13 @@ After LockBox, I have a few projects I need to finish up:
 **MASTERMIND -**
 A CLI-based version of the popular codebreaking game designed by Mordecai Merowitz, MASTERMIND.
 Hopefully, will contain all the notable features of the original game, different difficulties,
-and eventually, a game that learns alongside the player.
+and eventually, a game that learns alongside the player for a balanced experience.
 
 **CellSimulator -**
 A basic program designed to simulate cell behaviour and evolution.
 Eventually, I want it to contain advanced evolution algorythims with mutations,
-features such as SP02 and light levels, and more.
+features such as SP02 and light levels, and more. Not for any scientific reason, 
+moreso just for a little fun project.
 
 #### Contact
 
