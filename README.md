@@ -1,11 +1,10 @@
 ### Howdy, y'all! 👋
 
-My name is Robert Castro, but I also have a few other pseudonyms (Notably, Windows-CPP & StG_44).
-I'm a high-schooler, and I develop Python and C++ backend code in my free time.
+My name is Robert Castro. and I'm a high-school open-source programmer.
 
 #### What I'm Working On
 
-Currently, I'm working on LockBox, a set of encryption algorythims for data.
+Currently, I'm working on LockBox, which is a set of encryption algorythims for data.
 Eventually I want to interpret my own form of packet I/O system for it using a custom protocol,
 so tht I have a personal encryption solution for later use in projects. Of course, I also want
 to find a way to make LockBox publically available for anyone that wants to either contribute
