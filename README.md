@@ -7,7 +7,7 @@ My name is Robert Castro. and I'm a high-school open-source programmer.
 Currently, I'm working on LockBox, which is a set of encryption algorythims for data.
 Eventually I want to interpret my own form of packet I/O system for it using a custom protocol,
 so tht I have a personal encryption solution for later use in projects. Of course, I also want
-to find a way to make LockBox publically available for anyone that wants to either contribute
+to find a way to make LockBox publically available (Free, open-source, and safe) for anyone that wants to either contribute
 or use LockBox.
 
 ### What I Will Work On
