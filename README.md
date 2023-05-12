@@ -17,8 +17,8 @@ Here's an overview of all my programs and their licenses:
 - MASTERMIND | GNU GPLv3
 - CellSimulator | GNU GPLv3
 - LockBox | GNU GPLv3
-- moodMeter | WTFPL
-- batch-scripts | WTFPL
+- moodMeter | WTFPL 2
+- batch-scripts | WTFPL 2
 
 ### Contact
 
