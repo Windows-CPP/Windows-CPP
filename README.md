@@ -10,20 +10,15 @@ so tht I have a personal encryption solution for later use in projects. Of cours
 to find a way to make LockBox publically available (Free, open-source, and safe) for anyone that wants to either contribute
 or use LockBox.
 
-### What I Will Work On
+### Program Licenses
 
-After LockBox, I have a few projects I need to finish up:
+Here's an overview of all my programs and their licenses:
 
-**MASTERMIND -**
-A CLI-based version of the popular codebreaking game designed by Mordecai Merowitz, MASTERMIND.
-Hopefully, will contain all the notable features of the original game, different difficulties,
-and eventually, a game that learns alongside the player for a balanced experience.
-
-**CellSimulator -**
-A basic program designed to simulate cell behaviour and evolution.
-Eventually, I want it to contain advanced evolution algorythims with mutations,
-features such as SP02 and light levels, and more. Not for any scientific reason, 
-moreso just for a little fun project.
+- MASTERMIND | GNU GPLv3
+- CellSimulator | GNU GPLv3
+- LockBox | GNU GPLv3
+- moodMeter | WTFPL
+- batch-scripts | WTFPL
 
 ### Contact
 
