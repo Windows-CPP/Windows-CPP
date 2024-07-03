@@ -24,13 +24,9 @@ Here's an overview of all my programs and their licenses:
 
 **Professional Email:** [bobbycastdev@gmail.com](mailto:bobbycastdev@gmail.com)
 
-**Personal Email:** [Bobbycast66@gmail.com](mailto:bobbycast66@gmail.com)
-
-**Phone #:** 1+ (909).548.5431
-
 **LinkedIn:** [Robert J. Castro](https://www.linkedin.com/in/robertjcastro06)
 
-**Website:** [Robert-Castro.com](https://www.robert-castro.com)
+**Website:** [WWW.Robert-Castro.com](https://www.robert-castro.com)
 
 <!--
 **Windows-CPP/Windows-CPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
