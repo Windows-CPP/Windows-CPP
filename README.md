@@ -1,3 +1,8 @@
+#NOTICE
+
+Due to recent changes by GitHub, I will most likely be moving to a self-hosted Git solution. when it's available, it will be published here.
+
+
 ### Howdy, y'all! 👋
 
 My name is Robert Castro. and I'm a high-school open-source programmer.
